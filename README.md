@@ -1,11 +1,9 @@
 # WpLightPress V2 - Premium Modern WordPress Theme
 
-![WpLightPress Main Screenshot](images/Screenshot%202025-12-01%20010734.png)
-
 ## 🚀 Introduction
 **WpLightPress V2** is a **high-performance**, **SEO-optimized**, and **responsive WordPress theme** meticulously designed for modern blogs, news magazines, personal portfolios, and content creators. It combines a clean, **minimalist "dashboard-style" UI** with powerful features to deliver a **premium user experience**. Built with a **mobile-first approach**, it ensures your content looks stunning on every device, from desktops to smartphones. Whether you are looking for a **fast loading WordPress theme** or a **best SEO WordPress theme**, WpLightPress V2 is the perfect choice.
 
-## 🚀 Web PageSpeed Insights
+## 🚀 WebPage Speed Insights
 - **Webpage Perfomance**: Using Google's https://pagespeed.web.dev/ Webpage perfomance & SEO checker here is the measurments.
 
 ### Homepage Mobile Perfomance
